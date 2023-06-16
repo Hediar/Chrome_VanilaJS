@@ -1,0 +1,4 @@
+.hidden {
+    display: none;
+}
+/* 해당 class를 할당하면 보이지 않게 될 것이다. */
